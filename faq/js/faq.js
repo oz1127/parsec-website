@@ -87,7 +87,7 @@ function l(e) {
           ),
           e.target.classList.remove('btn-link-color'),
           (e.target.nextElementSibling.className = 'more');
-      }, 100),
+      }, 200),
     e.preventDefault();
 }
 function l1(e) {
@@ -108,7 +108,7 @@ function l1(e) {
           ),
           e.target.classList.remove('btn-link-color'),
           (e.target.nextElementSibling.className = 'more');
-      }, 100),
+      }, 200),
     e.preventDefault();
 }
 function l2(e) {
@@ -129,7 +129,7 @@ function l2(e) {
           ),
           e.target.classList.remove('btn-link-color'),
           (e.target.nextElementSibling.className = 'more');
-      }, 100),
+      }, 200),
     e.preventDefault();
 }
 lEL(), lEL1(), lEL2();
